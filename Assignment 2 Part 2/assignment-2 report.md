@@ -1,10 +1,5 @@
 # COL215P- Assignment 2 Part 1
 
-## Name : Ujjwal Mehta | Entry No. : 2020CS10401
-
-## Name : Somaditya Singh | Entry No. : 2020CS10389
-
-
 
 In this assignment part we have created all the modules needed to implement a neural network architecture. The following sections contains the information about all the modules of the data path along with their simulation images and explanation.
 
